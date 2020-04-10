@@ -1,6 +1,6 @@
-# flutter_latihan
+# Lintas Bandung Flutter
 
-A new Flutter project.
+Lintas Bandung adalah sebuah aplikasi transportasi umum yang tersedia di Kota Bandung, Jawa Barat. Aplikasi ini dibuat untuk memenuhi Tugas Akhir.
 
 ## Getting Started
 
